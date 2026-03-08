@@ -23,13 +23,6 @@ Socket.io • Mapbox • REST APIs • Git • Vercel
 
 ---
 
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=hesamhadadi&theme=tokyonight)
-
----
-
 ## 🧠 Currently Learning
 
 - Distributed Systems
@@ -38,11 +31,9 @@ Socket.io • Mapbox • REST APIs • Git • Vercel
 
 ---
 
-
-
 ## 📫 Contact
 
-🌐 Website: https://hesamhadadi.ir  
+🌐 Website: https://hesamhadadi.com 
 💼 LinkedIn: https://www.linkedin.com/in/hesam-hadadi-557574194/
 
 ---
