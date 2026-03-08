@@ -10,7 +10,7 @@ Currently pursuing an **M.Sc. in Data Science at Politecnico di Torino** while b
 ## 🚀 Tech Stack
 
 ### Languages
-JavaScript • TypeScript • SQL
+JavaScript • TypeScript • SQL • Python
 
 ### Frontend
 React • Next.js • PWA • Zustand
