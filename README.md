@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://hesamhadadi.com" target="_blank">🌐 Website</a> •
+  <a href="https://hesamhaddadi.com" target="_blank">🌐 Website</a> •
   <a href="https://www.linkedin.com/in/hesam-hadadi-557574194/" target="_blank">💼 LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL_HERE">📧 Email</a>
+  <a href="mailto:hesamhaddadinik">📧 Email</a>
 </p>
 
 ---
@@ -66,17 +66,7 @@
 - 🐘 Big Data (Hadoop / MapReduce)
 - 🤖 Machine Learning
 
----
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Project Name](#) | Short description here | React, Next.js |
-| [Project Name](#) | Short description here | Python, FastAPI |
-| [Project Name](#) | Short description here | TypeScript, Zustand |
-
----
 
 <p align="center">
   <i>Always interested in building scalable systems and modern web architectures.</i>
