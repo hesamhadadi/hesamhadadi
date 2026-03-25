@@ -66,6 +66,22 @@
 - 🐘 Big Data (Hadoop / MapReduce)
 - 🤖 Machine Learning
 
+---
+
+## 📜 Certificates
+
+### Front (UI)
+
+- _Add UI/Frontend certificates here_
+
+### Panel
+
+- _Add panel-related certificates here_
+
+### Back (Backend)
+
+- _Add backend certificates here_
+
 
 
 <p align="center">
