@@ -90,9 +90,9 @@ Interactive map, reviews, pricing packages, multilingual (FA/EN/IT), admin + own
 **Stack:** Next.js · TypeScript · MongoDB · Leaflet · Tailwind
 🔗 [Code](https://github.com/hesamhadadi/gym) · 🌐 [Live](https://gym-zc2q.vercel.app)
 
-### 🛒 Bazaarino — Classifieds for Iranians in Italy
-Peer-to-peer marketplace with JWT auth, image uploads, and full Persian RTL.
-**Stack:** Next.js · TypeScript · Supabase Storage · JWT · Tailwind
+### 🛒 Bazaarino — Classifieds and Housing for Persian Speakers
+Marketplace for Persian speakers in Italy, Germany and the UK, with location-based listings, real-time chat and housing reservations.
+**Stack:** Next.js · TypeScript · MongoDB · Socket.IO · NextAuth · Cloudinary
 🔗 [Code](https://github.com/hesamhadadi/Bazaarino) · 🌐 [Live](https://bazaarino-nine.vercel.app)
 
 ### 💪 Strive — iOS-Inspired Habit Tracker PWA
